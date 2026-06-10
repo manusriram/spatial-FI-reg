@@ -1,3 +1,8 @@
+''' Implementation of the Benamou_Brenier method based on fluid dynamics.
+'''
+
+__author__ = Benoît Müller
+
 import numpy as np
 import matplotlib.pyplot as plt
 import warnings
