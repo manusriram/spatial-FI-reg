@@ -1,0 +1,71 @@
+RunID,Method,Noise,Image,GridSize,Epsilon
+1,BB,clear,squares,16,1.0
+2,BB,clear,squares,20,1.0
+3,BB,clear,squares,24,1.0
+4,BB,clear,Gaussian,16,1.0
+5,BB,clear,Gaussian,20,1.0
+6,BB,clear,Gaussian,24,1.0
+7,BB,clear,MNIST,28,1.0
+8,BB,Gaussian white,squares,16,1.0
+9,BB,Gaussian white,squares,20,1.0
+10,BB,Gaussian white,squares,24,1.0
+11,BB,Gaussian white,Gaussian,16,1.0
+12,BB,Gaussian white,Gaussian,20,1.0
+13,BB,Gaussian white,Gaussian,24,1.0
+14,BB,Gaussian white,MNIST,28,1.0
+15,FIU,clear,squares,16,1.0
+16,FIU,clear,squares,20,1.0
+17,FIU,clear,squares,24,1.0
+18,FIU,clear,Gaussian,16,1.0
+19,FIU,clear,Gaussian,20,1.0
+20,FIU,clear,Gaussian,24,1.0
+21,FIU,clear,MNIST,28,1.0
+22,FIU,Gaussian white,squares,16,1.0
+23,FIU,Gaussian white,squares,20,1.0
+24,FIU,Gaussian white,squares,24,1.0
+25,FIU,Gaussian white,Gaussian,16,1.0
+26,FIU,Gaussian white,Gaussian,20,1.0
+27,FIU,Gaussian white,Gaussian,24,1.0
+28,FIU,Gaussian white,MNIST,28,1.0
+29,FIW,clear,squares,16,0.02
+30,FIW,clear,squares,16,0.05
+31,FIW,clear,squares,16,0.1
+32,FIW,clear,squares,20,0.02
+33,FIW,clear,squares,20,0.05
+34,FIW,clear,squares,20,0.1
+35,FIW,clear,squares,24,0.02
+36,FIW,clear,squares,24,0.05
+37,FIW,clear,squares,24,0.1
+38,FIW,clear,Gaussian,16,0.02
+39,FIW,clear,Gaussian,16,0.05
+40,FIW,clear,Gaussian,16,0.1
+41,FIW,clear,Gaussian,20,0.02
+42,FIW,clear,Gaussian,20,0.05
+43,FIW,clear,Gaussian,20,0.1
+44,FIW,clear,Gaussian,24,0.02
+45,FIW,clear,Gaussian,24,0.05
+46,FIW,clear,Gaussian,24,0.1
+47,FIW,clear,MNIST,28,0.02
+48,FIW,clear,MNIST,28,0.05
+49,FIW,clear,MNIST,28,0.1
+50,FIW,Gaussian white,squares,16,0.02
+51,FIW,Gaussian white,squares,16,0.05
+52,FIW,Gaussian white,squares,16,0.1
+53,FIW,Gaussian white,squares,20,0.02
+54,FIW,Gaussian white,squares,20,0.05
+55,FIW,Gaussian white,squares,20,0.1
+56,FIW,Gaussian white,squares,24,0.02
+57,FIW,Gaussian white,squares,24,0.05
+58,FIW,Gaussian white,squares,24,0.1
+59,FIW,Gaussian white,Gaussian,16,0.02
+60,FIW,Gaussian white,Gaussian,16,0.05
+61,FIW,Gaussian white,Gaussian,16,0.1
+62,FIW,Gaussian white,Gaussian,20,0.02
+63,FIW,Gaussian white,Gaussian,20,0.05
+64,FIW,Gaussian white,Gaussian,20,0.1
+65,FIW,Gaussian white,Gaussian,24,0.02
+66,FIW,Gaussian white,Gaussian,24,0.05
+67,FIW,Gaussian white,Gaussian,24,0.1
+68,FIW,Gaussian white,MNIST,28,0.02
+69,FIW,Gaussian white,MNIST,28,0.05
+70,FIW,Gaussian white,MNIST,28,0.1
