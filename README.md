@@ -15,6 +15,6 @@ $$p_{i,l} > 0\\
 
 where
 
-$$w_{i+\frac{e_v}{2}} = \varepsilon + (1-\varepsilon)\exp\!\left(-\left(\frac{\eta_{i+\frac{e_v}{2}}}{\kappa}\right)^2\right)$$
+$$w_{i+\frac{e_v}{2}} = \varepsilon + (1-\varepsilon)\ \exp \left(-\left(\frac{\eta_{i+\frac{e_v}{2}}}{\kappa}\right)^2\right)$$
 
 with the weight floor $\varepsilon$, $\eta_{i+\frac{e_v}{2}}$ as the edge map of the differences between nodes on the grid, and $\kappa$ as the median of nonzero values of $\eta$.
